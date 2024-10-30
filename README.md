@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hello, World! I'm Andréa Correia
+Bem-vindo(a) ao meu perfil! Sou Andréa, apaixonada por tecnologia e atualmente em uma jornada de transição de carreira do setor de Edificações para o universo da Tecnologia da Informação. Com formação em Matemática e Técnica em Edificações, agora estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando na área de DevOps/Cloud.
 
-<!--
-**Andreapnz/Andreapnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Em Formação Técnica estou constantemente aprimorando minhas habilidades em DevOps e Cloud Computing, estudando tecnologias essenciais para a automação, integração contínua e gerenciamento de infraestrutura em nuvem. Além disso, estou me dedicando ao aprendizado de linguagens de programação para desenvolver um perfil versátil e alinhado com as demandas do mercado.
 
-Here are some ideas to get you started:
+🎓 Aprendizado Contínuo e Participação em Comunidades Valorizo o aprendizado colaborativo e participo de várias comunidades de tecnologia, onde compartilho conhecimento, contribuo para projetos e colaboro com colegas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills em Desenvolvimento
+Linguagens de Programação: Python, JavaScript, Shell Script
+DevOps: Docker, Kubernetes, CI/CD com GitHub Actions, GitLab CI/CD
+Cloud Computing: Microsoft Azure (AZ-900, AZ-104), AWS (AWS Practitioner), Google Cloud Fundamentals
+Versionamento de Código: Git & GitHub
+Infraestrutura como Código: Terraform, Ansible
+Ferramentas de Teste e QA: Jira com Zephyr, Postman, SoapUI
+🚀 Objetivos
+Desenvolver proficiência em automação de infraestrutura e segurança em nuvem
+Contribuir para projetos open-source relacionados a DevOps
+Expandir minha experiência prática em APIs e integração de serviços
+Sinta-se à vontade para explorar meus projetos e contribuições. Vamos colaborar e transformar ideias em soluções!
