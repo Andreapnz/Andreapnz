@@ -12,6 +12,8 @@ Cloud Computing: Microsoft Azure (AZ-900, AZ-104), AWS (AWS Practitioner), Googl
 Versionamento de Código: Git & GitHub
 Infraestrutura como Código: Terraform, Ansible
 Ferramentas de Teste e QA: Jira com Zephyr, Postman, SoapUI
+
+
 🚀 Objetivos
 Desenvolver proficiência em automação de infraestrutura e segurança em nuvem
 Contribuir para projetos open-source relacionados a DevOps
