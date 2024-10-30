@@ -18,4 +18,5 @@ Ferramentas de Teste e QA: Jira com Zephyr, Postman, SoapUI
 Desenvolver proficiência em automação de infraestrutura e segurança em nuvem
 Contribuir para projetos open-source relacionados a DevOps
 Expandir minha experiência prática em APIs e integração de serviços
+
 Sinta-se à vontade para explorar meus projetos e contribuições. Vamos colaborar e transformar ideias em soluções!
