@@ -1,7 +1,8 @@
 👋 Hello, World! I'm Andréa Correia
-Bem-vindo(a) ao meu perfil! Sou Andréa, apaixonada por tecnologia e atualmente em uma jornada de transição de carreira do setor de Edificações para o universo da Tecnologia da Informação. Com formação em Matemática e Técnica em Edificações, agora estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando na área de DevOps/Cloud.
 
-💻 Em Formação Técnica estou constantemente aprimorando minhas habilidades em DevOps e Cloud Computing, estudando tecnologias essenciais para a automação, integração contínua e gerenciamento de infraestrutura em nuvem. Além disso, estou me dedicando ao aprendizado de linguagens de programação para desenvolver um perfil versátil e alinhado com as demandas do mercado.
+Bem-vindo(a) ao meu perfil! Sou Andréa, apaixonada por tecnologia e atualmente em uma jornada de transição de carreira do setor de Edificações para o universo da Tecnologia da Informação. Com formação em Matemática e Técnica em Edificações, agora estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando na área de Desenvolvedor FullStack, DevOps/Cloud.
+
+💻 Em Formação Técnica estou constantemente aprimorando minhas habilidades em Desenvolvedor FullStack e DevOps, estudando tecnologias essenciais para a automação, integração contínua e gerenciamento de infraestrutura em nuvem. Além disso, estou me dedicando ao aprendizado de linguagens de programação para desenvolver um perfil versátil e alinhado com as demandas do mercado.
 
 🎓 Aprendizado Contínuo e Participação em Comunidades Valorizo o aprendizado colaborativo e participo de várias comunidades de tecnologia, onde compartilho conhecimento, contribuo para projetos e colaboro com colegas.
 
