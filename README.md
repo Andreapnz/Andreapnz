@@ -9,7 +9,7 @@ Bem-vindo(a) ao meu perfil! Sou Andréa, apaixonada por tecnologia e atualmente 
 🛠️ Skills em Desenvolvimento
 Linguagens de Programação: Python, JavaScript, Shell Script
 DevOps: Docker, Kubernetes, CI/CD com GitHub Actions, GitLab CI/CD
-Cloud Computing: Microsoft Azure (AZ-900, AZ-104), AWS (AWS Practitioner), Google Cloud Fundamentals
+Cloud Computing: Microsoft Azure (AZ-900, AZ-104), AWS (AWS Practitioner)
 Versionamento de Código: Git & GitHub
 Infraestrutura como Código: Terraform, Ansible
 Ferramentas de Teste e QA: Jira com Zephyr, Postman, SoapUI
