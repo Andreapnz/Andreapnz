@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner3.jpeg" alt="Banner" style="max-width: 100%; width: 800px; height: auto;">
+  <img src="banner.jpeg" alt="Banner" style="max-width: 100%; width: 800px; height: auto;">
 </p>
 
 
