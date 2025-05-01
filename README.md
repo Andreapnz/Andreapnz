@@ -56,15 +56,11 @@
   <img src="https://img.shields.io/badge/SQL-FFCA28?logo=sqlite&logoColor=000" alt="SQL" style="display: inline-block;"/>
 </p>
 
-## Certificações Técnicas:
+## Technical Certifications:
 
-- ![AZ-900](https://img.shields.io/badge/Certificação-AZ--900-blue?logo=microsoft&logoColor=white) **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- ![AZ-104](https://img.shields.io/badge/Certificação-AZ--104-blue?logo=microsoft&logoColor=white) **Microsoft Certified: Azure Administrator Associate (AZ-104)**
-- ![AI-900](https://img.shields.io/badge/Certificação-AI--900-blue?logo=microsoft&logoColor=white) **Microsoft Certified: Azure AI Fundamentals (AI-900)**
-- ![AWS Practitioner](https://img.shields.io/badge/Certificação-AWS--Practitioner-orange?logo=amazonaws&logoColor=white) **AWS Certified Cloud Practitioner**
-
-Essas certificações refletem o meu compromisso com o aprendizado contínuo e a evolução nas áreas de Cloud e Inteligência Artificial.
-
+<p align="left">
+  <img src="certificacoes.png" alt="Banner" style="max-width: 100%; width: 280px; height: auto;">
+</p>
 
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=800080&reversal=true&animation=fadeIn&descAlignY=0&descAlign=50"/>
 
