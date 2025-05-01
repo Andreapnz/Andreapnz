@@ -28,14 +28,14 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Andreapnz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=8a2be2&text_color=ffffff&bg_color=000000" 
       alt="Estatísticas GitHub" 
-      height="200" 
+      height="180" 
     />
   </a>
   <a href="https://github.com/Andreapnz">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreapnz&layout=compact&langs_count=7&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=000000" 
       alt="Linguagens mais usadas" 
-      height="200" 
+      height="180" 
     />
   </a>
 
