@@ -24,7 +24,6 @@
 <br>
 <!-- GitHub Stats com fundo preto e cores pink e roxo -->
 <div align="center" style="background-color:#000000; padding: 20px; border-radius: 15px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
   <a href="https://github.com/Andreapnz">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Andreapnz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=8a2be2&text_color=ffffff&bg_color=000000" 
