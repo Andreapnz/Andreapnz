@@ -67,6 +67,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" style="display: inline-block;"/>
   <img src="https://img.shields.io/badge/DevOps-000000?logo=devops&logoColor=fff" alt="DevOps" style="display: inline-block;"/>
   <img src="https://img.shields.io/badge/SQL-FFCA28?logo=sqlite&logoColor=000" alt="SQL" style="display: inline-block;"/>
+  <img src="https://img.shields.io/badge/English-FFC0CB?logo=wikipedia&logoColor=000" alt="English" style="display: inline-block;"/>
+
 </p>
 
 ## Technical Certifications:
