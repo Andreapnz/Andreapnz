@@ -62,7 +62,9 @@
 - ![AZ-104](https://img.shields.io/badge/Certificação-AZ--104-blue?logo=microsoft&logoColor=white) **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 - ![AI-900](https://img.shields.io/badge/Certificação-AI--900-blue?logo=microsoft&logoColor=white) **Microsoft Certified: Azure AI Fundamentals (AI-900)**
 - ![AWS Practitioner](https://img.shields.io/badge/Certificação-AWS--Practitioner-orange?logo=amazonaws&logoColor=white) **AWS Certified Cloud Practitioner**
-
+<p align="center">
+  <img src="imagem.jpeg" alt="imagem" style="max-width: 100%; width: 800px; height: auto;">
+</p>
 Essas certificações refletem o meu compromisso com o aprendizado contínuo e a evolução nas áreas de Cloud e Inteligência Artificial.
 
 
