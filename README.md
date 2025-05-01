@@ -21,10 +21,25 @@
   <a href="https://wa.me/8798813138" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2382C14A?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
----
-<div align="center">
+<br>
+<!-- GitHub Stats com fundo preto e cores pink e roxo -->
+<div align="center" style="background-color:#000000; padding: 20px; border-radius: 15px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andreapnz&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+  <a href="https://github.com/Andreapnz">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Andreapnz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=8a2be2&text_color=ffffff&bg_color=000000" 
+      alt="Estatísticas GitHub" 
+      height="200" 
+    />
+  </a>
+
+  <a href="https://github.com/Andreapnz">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreapnz&layout=compact&langs_count=7&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=000000" 
+      alt="Linguagens mais usadas" 
+      height="200" 
+    />
+  </a>
 
 </div>
 
@@ -61,12 +76,6 @@
 <p align="left">
   <img src="certificacoes.png" alt="Banner" style="max-width: 100%; width: 300px; height: auto;">
 </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreapnz&count_private=true&layout=compact&locale=pt-br&title_color=F73D9F&icon_color=F73D9F&text_color=F73D9F&bg_color=000000&card_width=495"/>
-</a>
-
 
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=800080&reversal=true&animation=fadeIn&descAlignY=0&descAlign=50"/>
 
