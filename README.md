@@ -59,8 +59,15 @@
 ## Technical Certifications:
 
 <p align="left">
-  <img src="certificacoes.png" alt="Banner" style="max-width: 100%; width: 280px; height: auto;">
+  <img src="certificacoes.png" alt="Banner" style="max-width: 100%; width: 300px; height: auto;">
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreapnz&count_private=true&layout=compact&locale=pt-br&title_color=F73D9F&icon_color=F73D9F&text_color=F73D9F&bg_color=000000&card_width=495"/>
+</a>
+
+
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=800080&reversal=true&animation=fadeIn&descAlignY=0&descAlign=50"/>
+
 
