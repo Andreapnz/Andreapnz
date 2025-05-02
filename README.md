@@ -20,27 +20,20 @@
   <a href="https://www.linkedin.com/in/andrea-correia-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/8798813138" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2382C14A?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-
-<br>
-<!-- GitHub Stats com fundo preto e cores pink e roxo -->
-<div align="center" style="background-color:#000000; padding: 20px; border-radius: 15px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://github.com/Andreapnz">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Andreapnz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=8a2be2&text_color=ffffff&bg_color=000000" 
-      alt="Estatísticas GitHub" 
-      height="180" 
-    />
-  </a>
-  <a href="https://github.com/Andreapnz">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreapnz&layout=compact&langs_count=7&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=000000" 
-      alt="Linguagens mais usadas" 
-      height="180" 
-    />
-  </a>
-
+---
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Andreapnz&show_icons=true&theme=dark&include_all_commits=true&locale=en&title_color=ff69b4&icon_color=8a2be2&text_color=ffffff&bg_color=000000" 
+  />
+  <img 
+    alt="Top Languages"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreapnz&layout=compact&langs_count=9&title_color=ff69b4&text_color=ffffff&bg_color=000000&theme=dark&custom_title=Most%20Used%20Languages" 
+  />
+  
 </div>
-
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/Andreapnz?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink" alt="Contribuições - Andreapnz">
 </div>
