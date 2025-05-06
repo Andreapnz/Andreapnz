@@ -21,6 +21,7 @@
   <a href="https://wa.me/8798813138" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2382C14A?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
 <div align="center">
   <img 
     alt="GitHub Stats" 
@@ -69,6 +70,12 @@
 <p align="left">
   <img src="certificacoes.png" alt="Banner" style="max-width: 100%; width: 300px; height: auto;">
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andreapnz/Andreapnz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andreapnz/Andreapnz/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Andreapnz/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=800080&reversal=true&animation=fadeIn&descAlignY=0&descAlign=50"/>
 
