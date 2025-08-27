@@ -43,8 +43,6 @@
  <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5" style="display: inline-block;"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3" style="display: inline-block;"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" alt="Node.js" style="display: inline-block;"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" alt="Express" style="display: inline-block;"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" style="display: inline-block;"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=fff" alt="AWS" style="display: inline-block;"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=fff" alt="Azure" style="display: inline-block;"/>
