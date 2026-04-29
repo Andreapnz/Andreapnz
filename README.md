@@ -68,6 +68,7 @@
 <p align="left">
   <img src="certificacoes.png" alt="Banner" style="max-width: 100%; width: 300px; height: auto;">
   <img src="github.png" alt="Banner" style="max-width: 80%; width: 80px; height: auto;">
+  <img src="developer.png" alt="Banner" style="max-width: 80%; width: 80px; height: auto;">S
   
 </p>
 
