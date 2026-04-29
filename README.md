@@ -66,7 +66,7 @@
 ## Technical Certifications:
 
 <p align="left">
-  <img src="certificacoes.png" alt="Banner" style="max-width: 150%; width: 500px; height: auto;">
+  <img src="certificacoes2.png" alt="Banner" style="max-width: 150%; width: 500px; height: auto;">
 </p>
 
 <picture align="center">
