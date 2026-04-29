@@ -66,10 +66,8 @@
 ## Technical Certifications:
 
 <p align="left">
-  <img src="certificacoes2.png" alt="Banner" style="max-width: 150%; width: 500px; height: auto;">
+  <img src="certificacoes.png" alt="Banner" style="max-width: 150%; width: 500px; height: auto;">
 </p>
-
-![Banner](certificacoes3.png)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andreapnz/Andreapnz/output/github-contribution-grid-snake-dark.svg">
