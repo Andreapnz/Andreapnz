@@ -66,10 +66,7 @@
 ## Technical Certifications:
 
 <p align="left">
-  <img src="certificacoes.png" alt="Banner" style="max-width: 100%; width: 300px; height: auto;">
-  <img src="github.png" alt="Banner" style="max-width: 80%; width: 80px; height: auto;">
-  <img src="developer.png" alt="Banner" style="max-width: 80%; width: 80px; height: auto;">S
-  
+  <img src="certificacoes.png" alt="Banner" style="max-width: 150%; width: 500px; height: auto;">
 </p>
 
 <picture align="center">
