@@ -21,18 +21,14 @@
   <a href="https://wa.me/8798813138" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2382C14A?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-<br>
+<br> 
+
 <div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Andreapnz&show_icons=true&theme=dark&include_all_commits=true&locale=en&title_color=ff69b4&icon_color=8a2be2&text_color=ffffff&bg_color=000000" 
-  />
-  <img 
-    alt="Top Languages"
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreapnz&layout=compact&langs_count=9&title_color=ff69b4&text_color=ffffff&bg_color=000000&theme=dark&custom_title=Most%20Used%20Languages" 
-  />
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andreapnz&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+</div>
+
   
 </div>
 <div align="center">
